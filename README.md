@@ -5,7 +5,7 @@ My greetings to all of you. Let me introduce myself first. I am VOIM, a page. I 
 
 
 ## Website:-
-The website is currently up as [**www.voicesofinnermind.tk**](www.voicesofinnermind.tk.
+The website is currently up as [**www.voicesofinnermind.tk**](www.voicesofinnermind.tk).
 
 
 ## Logo:-
