@@ -9,5 +9,6 @@ The website is currently up as [**www.voicesofinnermind.tk**](www.voicesofinnerm
 
 
 ## Logo:-
+![0 logo 3](https://user-images.githubusercontent.com/29785503/44551737-a35a8280-a745-11e8-83d8-c2aaffe99bf4.jpg)
 
 
