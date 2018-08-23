@@ -6,4 +6,4 @@ My greetings to all of you. Let me introduce myself first. I am Voim, a page. I 
 
 ## Website:-
 The website is currently up.
-### [Click Here](www.voicesofinnermind.tk)
+[**www.voicesofinnermind.tk**](www.voicesofinnermind.tk)
